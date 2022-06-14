@@ -1,3 +1,4 @@
+# 进行了一些个修改
 import sys
 from PyQt5.QtWidgets import QMainWindow, QApplication, QWidget, QHBoxLayout, QLabel
 from PyQt5.QtGui import QIcon, QPixmap, QImage
