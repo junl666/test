@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-
+# test
 from PyQt5 import QtCore, QtWidgets
 from PyQt5.QtWidgets import QLabel
 from PyQt5.QtGui import *
